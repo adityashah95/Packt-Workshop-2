@@ -18,12 +18,6 @@ The course will complete with one last activity in which you will be given a new
 * Learn the industry standard tools
 * Develop your general understanding of data formats and representations 
 
-### Hardware Requirement
-For an optimal student experience, we recommend the following hardware configuration:
-* **Processor**: Dual Core or better
-* **Memory**: 4GB RAM
-* **Storage**: 10GB available space
-
 ### Software Requirement
 You’ll also need the following software installed in advance:
 * **OS**: Windows 7 SP1 32/64-bit, Windows 8.1 32/64-bit or Windows 10 32/64-bit, Ubuntu 14.04 or later, or macOS Sierra or later
